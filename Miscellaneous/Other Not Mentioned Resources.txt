@@ -1,0 +1,17 @@
+References Used:
+	Hookup Table on Spark Fun's RGB Panel Hookup Guide
+	https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide/all#hardware-hookup
+	
+	Shrouded 2x8 and connected Panel Pin Labels from Adafruit's RGB Matrix PCB Shield
+	https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB
+	
+	Various parts on Adafruit's 32x16 and 32x32 RGB LED Matrix Guide
+	https://learn.adafruit.com/32x16-32x32-rgb-led-matrix
+	
+
+Libraries:
+	Spark Fun
+	
+	AdaFruit GFX Library
+	
+	RGB Matrix Panel
