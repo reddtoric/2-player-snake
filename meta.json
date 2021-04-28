@@ -1,4 +1,5 @@
 {
     "title": "Two-player Snake",
-    "icon_url": "https://eddevs.com/snake-icon.png"
+    "icon_url": "https://eddevs.com/snake-icon.png",
+    "order": 5
 }
