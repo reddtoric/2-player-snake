@@ -3,8 +3,14 @@
 Two-player snake game in C++ using Arduino Mega, 32x32 LED matrix, custom shield, and two custom 4-button controllers for Adv. Additive Manufacturing (UIC ENGR 294)
 
 </br>
-<img src="https://media.giphy.com/media/iEMkRfB8JyjEhcMhLR/giphy.gif" alt="GIF of 2p snake part1" width="300px"/>
-<img src="https://media.giphy.com/media/J6tbl7obMBHApaVlm7/giphy.gif" alt="GIF of 2p snake part2" width="300px"/>
+<p float="left">
+<img src="https://media.giphy.com/media/iEMkRfB8JyjEhcMhLR/giphy-downsized.gif" alt="GIF of 2p snake part1"/>
+<img src="https://media.giphy.com/media/J6tbl7obMBHApaVlm7/giphy-downsized.gif" alt="GIF of 2p snake part2"/>
+</p>
+
+[Original GIF #1](https://media.giphy.com/media/iEMkRfB8JyjEhcMhLR/giphy.gif) | 
+[Original GIF #2](https://media.giphy.com/media/J6tbl7obMBHApaVlm7/giphy.gif)
+
 <img src="Images/overview.jpg" width="400"/>
 
 </br></br>
