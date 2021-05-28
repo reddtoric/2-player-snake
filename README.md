@@ -38,7 +38,7 @@ Yes, I know the soldering is bad.
 
 ## Arduino Mega Shield
 
-Also, manually routed the shield. Here is the mapping of the 16 pin connector socket for LED matrix and the routes to the Arduino Mega pinouts. The correct mapping might be the horizontal mirrored version.
+Also, manually routed the shield. Here is the mapping of the 16 pin connector socket for LED matrix and the routes to the Arduino Mega pinouts. The correct mapping might be the horizontal mirrored version; I didn't have a connector cable.
 
 <img src="Images/led-routing-guide.jpg" width="400"/>
 
