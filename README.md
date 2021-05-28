@@ -34,7 +34,7 @@ Manually figuring out the routes for all 4 buttons.
 <img src="Images/controller-pcb-draft.jpg" width="400"/> <img src="Images/controller-pcb-schematic-routes.jpg" width="400"/>
 <img src="Images/controller-pcb.jpg" width="400"/>
 
-Yes, I know the soldering is bad.
+Yes, I know the soldering is ugly.
 
 ## Arduino Mega Shield
 
