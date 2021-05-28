@@ -31,8 +31,7 @@ Two-player snake game in C++ using Arduino Mega, 32x32 LED matrix, custom shield
 
 Manually figuring out the routes for all 4 buttons.
 
-<img src="Images/controller-pcb-draft.jpg" width="400"/>
-<img src="Images/controller-pcb-schematic-routes.jpg" width="400"/>
+<img src="Images/controller-pcb-draft.jpg" width="400"/> <img src="Images/controller-pcb-schematic-routes.jpg" width="400"/>
 <img src="Images/controller-pcb.jpg" width="400"/>
 
 Yes, I know the soldering is bad.
