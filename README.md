@@ -19,7 +19,7 @@ Two-player snake game in C++ using Arduino Mega, 32x32 LED matrix, custom shield
 
 - [2-player-snake](#2-player-snake)
   - [D-pad Controller PCB](#d-pad-controller-pcb)
-  - [Arduino Mega Shield](#arduino-mega-shield)
+  - [LED Shield for Arduino Mega](#led-shield-for-arduino-mega)
   - [Case](#case)
   - [Updated Case](#updated-case)
 
@@ -36,7 +36,7 @@ Manually figuring out the routes for all 4 buttons.
 
 Yes, I know the soldering is ugly.
 
-## Arduino Mega Shield
+## LED Shield for Arduino Mega
 
 Also, manually routed the shield. Here is the mapping of the 16 pin connector socket for LED matrix and the routes to the Arduino Mega pinouts. The correct mapping might be the horizontal mirrored version; I didn't have a connector cable.
 
