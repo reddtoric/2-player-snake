@@ -54,7 +54,7 @@ Planning and designing the controller cases.
 
 <img src="Images/controller-cross-section.jpg" width="400"/>
 
-(Partially) Initial design. I forgot the divot where the soldering on the PCB takes up space. In the original case, you'll see I melted it. Screw holes are not in the CAD because I didn't have enough time to make sure they're were they should be and decided to just drill them.
+(Partially) Initial design. I forgot the divot where the soldering on the PCB takes up space. In the original case, you'll see I melted it. Screw holes and cable hole are not in the CAD because I didn't have enough time to make sure they're were they should be and decided to just drill them.
 
 <img src="Images/case.jpg" width="400"/> <img src="Images/back-cover.jpg" width="400"/> <img src="Images/dpad.jpg" width="400"/>
 
