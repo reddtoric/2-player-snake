@@ -1,6 +1,6 @@
 # 2-player-snake
 
-2 player snake game in C++ using Arduino Mega, 32x32 LED matrix, custom shield, and two custom 4-button controllers for Adv. Additive Manufacturing (UIC ENGR 294)
+2 player snake game in C++ using Arduino Mega, 32x32 LED matrix, custom shield, and two custom 4-button controllers for Adv. Additive Manufacturing (UIC ENGR 294) with updated case.
 
 </br>
 <p float="left">
@@ -16,6 +16,8 @@
 </br></br>
 
 <!-- TOC -->
+
+## Table of Contents
 
 - [2-player-snake](#2-player-snake)
   - [D-pad Controller PCB](#d-pad-controller-pcb)
